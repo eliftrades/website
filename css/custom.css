@@ -45,10 +45,12 @@ display: flex;
     max-width: 1280px;
     margin: 0 auto;
     width: 100%;
+    text-align:center;
 
 }
 
-
-.main-banner .wistia_responsive_padding{
-    padding: 0 !important;
+h1{
+font-size:60px;
+    font-weight:500;
 }
+
